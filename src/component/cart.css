@@ -1,0 +1,17 @@
+.cart-buttons{
+	font-weight: 800;
+	font-size: 16px;
+	background: transparent;
+	border: none; 
+}
+
+.cart-buttons:hover{
+	cursor: pointer;
+	background-color: #75410a;
+	color: #fff;
+	border-radius: 2px;
+}
+
+.cart-buttons:focus{
+	outline: none;
+}

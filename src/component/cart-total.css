@@ -1,0 +1,18 @@
+.total{
+	background-color: #75410a;
+	width: 20%;
+	margin: auto;
+	padding: 10px;
+	margin-top: 20px;
+}
+
+h3{
+	color: #fff;
+	font-size: 24px;
+}
+
+.total-value{
+	font-weight: 800;
+	font-size: 24px;
+	color: #fff;
+}
